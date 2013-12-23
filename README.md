@@ -5,8 +5,8 @@ BigTime_Watch_Kit_Assembly_Guide
 
 Repository Contents
 ----------------
-Content - All the content in the Assembly guide. 
-Print ready BigTime Watch Kit assembly guide 
+* Content - All the content in the Assembly guide. 
+* Print ready BigTime Watch Kit assembly guide 
 
 Product Versions
 ----------------
